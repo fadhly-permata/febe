@@ -1,0 +1,14 @@
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/bin/Debug/net7.0/Repo.deps.json
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/bin/Debug/net7.0/Repo.runtimeconfig.json
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/bin/Debug/net7.0/Repo.dll
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/bin/Debug/net7.0/Repo.pdb
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.csproj.AssemblyReference.cache
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.GeneratedMSBuildEditorConfig.editorconfig
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.AssemblyInfoInputs.cache
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.AssemblyInfo.cs
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.csproj.CoreCompileInputs.cache
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.dll
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/refint/Repo.dll
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.pdb
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/Repo.genruntimeconfig.cache
+/home/permata/Downloads/GitHub/untitled folder/MSBU/BE/Repo/obj/Debug/net7.0/ref/Repo.dll
